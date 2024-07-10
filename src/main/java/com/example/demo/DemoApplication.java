@@ -8,8 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
-        System.out.println("conflict test");
-        Integer test = 1;
+        String test = "Feature A";
     }
 
 }
